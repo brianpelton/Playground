@@ -1,2 +1,2 @@
 # Playground
-Nothinh serious
+Nothing serious
